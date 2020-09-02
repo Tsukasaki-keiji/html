@@ -4,3 +4,16 @@
   box-sizing: border-box;
 }
 
+.boxes {
+  width: 600px;
+  background-color: yellow;
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.box1 {
+  width: 150px;
+  height: 400px;
+  background-color: orange;
+}
