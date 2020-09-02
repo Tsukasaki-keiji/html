@@ -19,7 +19,7 @@
 .main {
   width: 960px;
   height: 1400px;
-  background-color: green;
+  background-color: greenyellow;
   display: flex;
   justify-content: center;
   margin: 0 auto;
