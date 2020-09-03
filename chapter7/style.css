@@ -18,5 +18,11 @@
 
 main {
   width: 840px;
-  margin: 0 auto;
+  margin: 50px auto;
+}
+
+.service {
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #848282;
 }
