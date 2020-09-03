@@ -61,3 +61,8 @@ main {
 .title {
   margin: 15px 0 5px;
 }
+
+footer {
+  background-color: #aaaaaa;
+  height: 50px;
+}
