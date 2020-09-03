@@ -36,3 +36,7 @@ main {
 .box:last-child {
   background-color: orange;
 }
+
+.box:nth-child(3n) {
+  margin-right: 0;
+}
