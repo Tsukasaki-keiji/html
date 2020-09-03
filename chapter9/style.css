@@ -53,6 +53,8 @@ main {
   position: absolute;
   color: #eee;
   background-color: orange;
+  top: 0;
+  left: 0;
 }
 
 .title {
