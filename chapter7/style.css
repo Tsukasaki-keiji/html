@@ -15,3 +15,8 @@
 .headline {
   padding: 20px;
 }
+
+main {
+  width: 840px;
+  margin: 0 auto;
+}
