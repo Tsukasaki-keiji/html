@@ -54,3 +54,7 @@ main {
   color: #eee;
   background-color: orange;
 }
+
+.title {
+  margin: 15px 0 5px;
+}
