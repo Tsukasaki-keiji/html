@@ -21,3 +21,12 @@ main {
 .list-item:nth-child(odd) {
   background-color: #eee;
 }
+
+.box {
+  width: 30%;
+  height: 200px;
+  margin-bottom: 40px;
+  margin-right: 5%;
+  background-color: yellow;
+  float: left;
+}
