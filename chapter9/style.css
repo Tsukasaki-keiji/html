@@ -50,4 +50,7 @@ main {
 }
 
 .step-num {
+  position: absolute;
+  color: #eee;
+  background-color: orange;
 }
