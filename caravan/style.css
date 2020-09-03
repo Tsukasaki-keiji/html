@@ -21,6 +21,12 @@ header {
   margin-left: 20px;
 }
 
+.social {
+  position: absolute;
+  top: 22px;
+  right: 22px;
+}
+
 header .heading {
   font-size: 32px;
 }
