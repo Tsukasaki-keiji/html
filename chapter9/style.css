@@ -34,3 +34,17 @@ main {
   background-size: cover;
   background-position: bottom;
 }
+
+.step-img2 {
+  height: 150px;
+  background-image: url(img/flow02.png);
+  background-position: bottom;
+  background-size: cover;
+}
+
+.step-img3 {
+  height: 150px;
+  background-image: url(img/flow03.png);
+  background-position: bottom;
+  background-size: cover;
+}
