@@ -155,7 +155,7 @@ main {
 }
 
 .instagram-box:nth-child(odd) {
-  margin-right: 10px;
+  margin-right: 0 10px 10px 0;
 }
 
 .instagram-box:nth-child(1) {
