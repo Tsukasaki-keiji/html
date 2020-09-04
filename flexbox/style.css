@@ -48,3 +48,11 @@
   height: 130px;
   margin: 10px;
 }
+
+.footer {
+  background-color: navajowhite;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
