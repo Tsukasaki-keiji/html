@@ -3,3 +3,21 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.header {
+  background-color: purple;
+  padding: 30px 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.header > div {
+  width: 140px;
+  height: 70px;
+  margin: 0 10px;
+  background-color: pink;
+}
+
+.header > :first-child {
+  margin-right: auto;
+}
