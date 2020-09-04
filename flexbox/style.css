@@ -21,3 +21,8 @@
 .header > :first-child {
   margin-right: auto;
 }
+
+.main {
+  display: flex;
+  justify-content: center;
+}
